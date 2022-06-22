@@ -2,9 +2,6 @@
 
 - [Remix Docs](https://remix.run/docs)
 
-### Resume that:
-- https://remix.run/docs/en/v1/tutorials/jokes#build-logout-action
-
 ## Development
 
 From your terminal:
